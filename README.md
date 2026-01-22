@@ -1,2 +1,2 @@
 # ISI_python_notes
-Python notes prepared during Infosys Springboard Internship
+notes and assignments during my time as the the Infosys Intern
